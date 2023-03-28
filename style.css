@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    padding: 200px;
+}
+
+section{
+text-align: center;
+
+}
+
+.img{ 
+    align-items: center;
+    border-radius: 15px;
+}
+
+.text{
+    color: azure;
+}
+
+button{ 
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    gap: 16px;
+    background: #22D4FD;
+    border-radius: 16px;
+    text-decoration: none;
+    font-style: oblique;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+span{ 
+    color: 
+    #22D4FD;
+}
